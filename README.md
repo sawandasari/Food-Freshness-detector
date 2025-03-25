@@ -36,6 +36,9 @@ Food plays a crucial role in our health and well-being. However, food stored at 
 4. **Alerts & Display:** The results are displayed on an LCD screen and sent to a registered phone number via the GSM module.
 5. **User Interaction:** The Android application allows users to select the type of food being tested and receive notifications.
 
+   ![Picture1](https://github.com/user-attachments/assets/6111eedb-097e-4b63-b0e3-410fb4e04c28)
+
+
 ## Future Enhancements
 - **Integration with IoT:** Cloud storage and real-time monitoring via mobile apps.
 - **AI-Based Analysis:** Machine learning to improve freshness prediction accuracy.
